@@ -1,0 +1,39 @@
+B3ta  todo
+
+Ask for money
+width of reply boxes
+move indent thing to work as a var
+indent on QOTW
+Fix images  challenge page
+fix youtube embed for short URLs
+new icons
+
+ 
+
+
+
+LONGER
+* relaunch up QOTW
+* Integrate FB / Twitter cards
+* Automatic posting of images to FB / Twitter
+* Instagram page
+* Tumblr page
+* Pinterest
+* Better defaults on popular for mods
+* Craption competition
+* Clean out old movie / quiz content / features etc
+* Better blog design
+* Top tip bot?
+* Rescue old images from archive
+* Newsletter format so viewable on phone
+* move newsletter to diff sender
+* relaunch newsletter
+* git working with B3ta
+* make a version of b3ta on diff server for testing
+* Make the best b3ta_links autopost to the @b3ta account
+
+
+FIXED
+word-wrap
+
+class="embeddedplayer"

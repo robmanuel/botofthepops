@@ -1,0 +1,42 @@
+v=3
+
+dir="/Users/robmanuel/Desktop/home"
+
+sample dir+"0.wav", amp: v
+sleep sample_duration dir+"0.wav", amp: v
+
+sample dir+"1.wav", amp: v
+sleep sample_duration dir+"1.wav", amp: v
+sample dir+"1.wav", amp: v
+sleep sample_duration dir+"1.wav", amp: v
+sample dir+"1.wav", amp: v
+sleep sample_duration dir+"1.wav", amp: v
+sample dir+"1.wav", amp: v
+sleep sample_duration dir+"1.wav", amp: v
+
+sample dir+"2.wav", amp: v
+sleep sample_duration dir+"2.wav", amp: v
+sample dir+"2.wav", amp: v
+sleep sample_duration dir+"2.wav", amp: v
+sample dir+"2.wav", amp: v
+sleep sample_duration dir+"2.wav", amp: v
+sample dir+"2.wav", amp: v
+sleep sample_duration dir+"2.wav", amp: v
+
+sample dir+"1.wav", amp: v
+sleep sample_duration dir+"1.wav", amp: v
+sample dir+"1.wav", amp: v
+sleep sample_duration dir+"1.wav", amp: v
+
+sample dir+"3.wav", amp: v
+sleep sample_duration dir+"3.wav", amp: v
+sample dir+"3.wav", amp: v
+sleep sample_duration dir+"3.wav", amp: v
+sample dir+"3.wav", amp: v
+sleep sample_duration dir+"3.wav", amp: v
+sample dir+"3.wav", amp: v
+sleep sample_duration dir+"3.wav", amp: v
+
+sample dir+"4.wav", amp: v
+sleep sample_duration dir+"4.wav", amp: v
+

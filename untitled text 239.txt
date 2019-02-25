@@ -1,0 +1,35 @@
+Estate Agents names
+Property developer names
+Pub names
+* Overheard Estate Agents
+
+BOT MAINTAINCE
+
+github
+b3ta links
+theresabot
+the daily mail sytff
+
+scuffle business
+Buzzfeed
+wipe.py on yokonobot
+
+
+
+
+python $HOME/python/buzzfeed/buzz.sh
+
+# -*- coding: utf-8 -*-
+import sys,urllib
+import json
+import tweepy
+from botcore import getApiKey,openTwitter,databaseFilename
+url="https://www.buzzfeed.com/api/v2/feeds/trending"
+remotedata = urllib.urlopen(url).read()
+jremotedata=json.loads(remotedata)
+
+jremotedata["buzzes"][0]["title"]
+jremotedata["buzzes"][0]["published_date"]
+
+
+Hey I've just had a grim thought. What if all the current news stories about antisemitism are actually loved by antisemites as they expose new people to specific antisemitic ideas which I won't name here.

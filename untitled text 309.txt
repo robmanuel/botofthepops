@@ -1,0 +1,5 @@
+curl -X POST "https://api.cloudflare.com/client/v4/zones/6b0c054a6ee6dc7ac21dbb650e7b69bb/purge_cache" \
+     -H "X-Auth-Email: cloudflare@cr3ation.co.uk" \
+     -H "X-Auth-Key: 84d09c109e5948c5afb562cf57667a31c7711" \
+     -H "Content-Type: application/json" \
+     --data '{"files":["https://b3ta.com/danny-dyer-soundboard/main.js",{"url":"https://b3ta.com/danny-dyer-soundboard/main.js"}]}'

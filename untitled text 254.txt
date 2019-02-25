@@ -1,0 +1,39 @@
+1. Document of costs / timings 
+2. Make sure emoji time is there
+
+
+£3000
+
+1 
+
+
+​
+400*5
+Liscence bot code 1 year
+Fixing problems that’ll crop up
+Ad on b3ta
+Promotion on Twitter
+Ad b3ta newsletter
+
+
+1 day writing preparing the idea - name
+1 day writing templates 
+1 day writing new word lists - celebs, objects etc
+1 day implementing it
+1 day changes
+
+5 days x £400 per day
+
+PLUS ADDITIONAL STUFF
+
+Agreement to use bot code on this project for 1 year
+Costs of server time on AWS
+Fixing the odd problem that'll inevitably crop up because this is live code mixing with real humans
+Ad on b3ta
+Promotion on Twitter via robmanuel, clickbaitrobot, swearclock & b3ta
+Ad b3ta newsletter
+
+£1000
+
+Total: £3000
+

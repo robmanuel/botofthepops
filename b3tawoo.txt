@@ -1,0 +1,630 @@
+"Want to feel old? Turn on the front facing camera"
+This Week:
+* ROBOTS TALKING TO ROBOTS - Funnyish hack
+* ARGOS - A bot that posts old Argos tat
+* QOTW GOLD - the /notorious/ threesome story
+
+-------------------------------------------------
+________  ____ __  ___
+____/  _)|_  // /_/ _ | "We're saving the web
+___/  _ |/_ </ __/ __ |   by backing it up
+__/____/____/\__/_/ |_|    to archive.org"
+
+B3ta email 691  - 24 Aug 2018
+
+Alexa, read the B3ta newsletter in a robot voice:
+http://b3ta.com/newsletter/issue691
+
+-------------------------------------------------
+
+: ROBOTS TALKING TO ROBOTS
+  An impractical but amusing interface to Spotify
+
+  Your newsletter editor has been wasting his
+  life making an interface to Alexa that works by
+  getting his laptop to talk to it. You might
+  think this is utterly pointless but it is fun
+  and you can download the code and play with it
+  yourself should you want. Or just watch the
+  video.
+https://b3ta.com/blog/robot-dj/
+
+-------------------------------------------------
+
+: RHYMING FOOD MENU 
+
+* Trouts with sprouts
+* Carrots with parrots
+* Bees with peas
+* Lambs and jams
+* Porks with stalks
+* Twiglets and piglets
+* Salmon and gammon.
+* Beef and Leaf
+* Chicken with sick in
+* Horse in sauce
+* Candy with brandy
+
+-------------------------------------------------
+
+: LAST WEEK'S CHALLENGE
+  Remove a letter from an LP
+
+  230 entries in our "remove a letter from an LP"
+  challenge. That's numbers a bit like when we
+  were more popular. Anyway. Still time to join
+  in and pretend like it's 2004 again.
+https://www.b3ta.com/challenge/letterremovedlps/popular/
+
+-------------------------------------------------
+
+: OLD ARGOS CATALOGUE BOT
+  Random pages to make you nostalgic
+
+  Inspired by our @yorecomputer and
+  @randomsmashhits project comes @OldUKCatalogues
+  who write "Would you be interested in this new
+  feed?"
+
+  We are literally planning to do this ourselves
+  but haven't got round to it yet - although the
+  main thing we'd have done different is to
+  upload the material to archive.org first so
+  everyone could use it:
+https://twitter.com/OldUKCatalogues
+
+-------------------------------------------------
+
+Everyone who tweets who claims they read books is
+a liar. It's like heroin addicts claiming they're
+into jogging.
+
+-------------------------------------------------
+
+: B3TANS MAKING BOTS WITH THEIR CHILDREN
+  We'll be making Alexa skills with grandkids next
+
+  Shardcore, botman extraordinaire and he who
+  gave us the most useful bit of tech advice
+  we've received in the last ten years ("Use
+  Python. It's got libraries for everything. It's
+  like putting Lego together"), anyway he's been
+  repurposing his Factbot with the input of his
+  Tumblraware daughter:
+
+  He writes "hello, if you are looking for
+  newsletter fodder, you might find this story of
+  collaborative botmaking with my daughter
+  suitable for the b3ta demographic ;)"
+http://www.shardcore.org/shardpress/2018/08/23/factbot-jr/
+
+-------------------------------------------------
+
+: THIS WEEK'S IMAGE CHALLENGE
+  British Computer games
+
+  Ok. We've got a new challenge up. British
+  Computer games. You know er... Space Invaders
+  where you apologise for every alien shot.
+https://b3ta.com/challenge/britishcomputergames/popular
+
+-------------------------------------------------
+
+Programming is mostly writing a cool little
+function and then wanting to get a pat on the
+head and you don't get one because nobody has a
+clue what you're doing.
+
+-------------------------------------------------
+
+: CLOG RAVING
+  Old music synced with slightly older video
+
+  The Tramp Surveyor writes, "I edited some old
+  BFI footage of clog dancing with some 90s rave
+  music. Yeahhhh." 
+http://b3ta.com/links/1496109 
+
+-------------------------------------------------
+
+The best way to create equality is to jumble up
+the babies in hospitals. The rich will be
+motivated to pay taxes to improve the chances of
+their genetic offspring, everyone gets the same
+lottery chance at being born into wealth, and
+shouting "BABY JUMBLE" is joyful.
+
+-------------------------------------------------
+
+: TROUSER TROUBLE? CALL HEBTRO
+  Sponsored Patreon
+
+  Do you remember what it was like before Hebtro
+  invented trousers? Men walked around in shorts.
+  Make sure that never happens again:
+https://hebtro.co/
+
+-------------------------------------------------
+
+: HEADLINES OF THE WEEK
+  Sentences from the world's finest journalists
+  
+  * "Edinburgh Zoo has denied it employs a
+  penguin erector" (Dundee Courier)
+
+  * "Christian poet harassed by porn WhatsApp
+  groups run by a 'mentally challenged' rabbit
+  farmer" (South Africa News 24)
+
+  * "Mum thinks her house might be haunted by a
+  'spunking ghost' - and people are agreeing with
+  her" (Daily Mirror)
+
+  * "The Two Stone Cabbage" (Manx Independent)
+
+  Compiled with the "help" of Scaryduck who has a
+  book out soon and wants you to pre-order it NOW.
+http://www.amazon.co.uk/exec/obidos/ASIN/B07GL8ZDLK/b3ta-21
+
+-------------------------------------------------
+
+: ED ZITRON = PUBLIC RELATIONS
+  Sponsored Patreon
+
+  Ed does PR stuff and if you want some PR then
+  ED is your guy. Everybody loves PR right? 
+https://www.edzitron.com/
+
+-------------------------------------------------
+
+: SITES IN BRIEF
+  Stuff we like that wasn't made by our mates
+  
+  * PEANUTS SYNCED WITH 2112 BY RUSH - this made
+  us quite like Rush, it's that good.
+https://www.youtube.com/watch?v=-IOKT_sC9ac
+
+  * MAN FINDS OLD PHOTOS - compelling thread from
+  about finding a box a 100 year old slides and
+  trying to use the internet to suss out who they
+  are. A mystery still unresolved.  
+https://twitter.com/meandmybigmouth/status/1031476453785919488
+
+  * TWITTER WITHOUT THE ALGORITHM - Well, Twitter
+  with a simpler algorithm which is just "tweets
+  from people I follow, in chronological order
+  and maybe some likes"
+http://realtwitter.com  
+
+  * THEME TO KNIGHT RIDER ON A BANJO AND
+  ACCORDION - Gijoel writes, "The guy's got
+  skills."
+http://b3ta.com/links/1496229 
+
+  * JUST WILLIAM AND THE NAZIS - Ambegris writes,
+  "So I've found out there's a Just William story
+  I've never read, written in 1934, in which The
+  Outlaws decide to model themselves after the
+  German chancellor. William himself wants to be
+  called 'Him Hitler' and they start harassing
+  the village's only Jewish person." Holy shit!
+http://justwilliamsyear.co.uk/william-the-detective/william-and-the-nasties 
+
+-------------------------------------------------
+
+We've given the Twitter feed @b3ta_links a poke
+to get it working again after it died in the
+great B3ta hard disk crash. Make sure you follow
+it for the best links from our /links board. 
+https://twitter.com/b3ta_links
+
+-------------------------------------------------
+
+: THE MEANING OF GIFF
+  Redefined towns for the web 1.0 generation
+
+  * TIMPERLEY  - The small key-like object
+  supplied with some brands of smartphone to open
+  the sim card slot.  (Smallbrainfield)
+
+  * MAMBLE (V) - To attempt to refute an
+  accusation of mansplaining with an even longer
+  and more patronising explanation (cumquat may)
+
+  * TEIGNMOUTH - to brazenly harvest the online
+  posted witticisms of people into an article,
+  book, publication, script or similar.
+  (garidead)
+
+  * HEBBING END - the section of a powerpoint
+  presentation that extends beyond the projection
+  surface and instead is projected onto some
+  nearby curtains or ceiling tiles. (alistair)
+
+  * SKIPTON - The unfinished pint left by a
+  politician after a photo opportunity.
+  (Smallbrainfield)
+
+  * ROUNDHAY - A person who changes from portrait
+  to landscape mode half way through a video.
+  (alistair)
+
+  If you've got any towns you want to define,
+  head over to the 'Meaning Of Giff':
+http://b3ta.com/questions/themeaningofgiff
+
+-------------------------------------------------
+
+: STAR IN NEXT WEEK'S ISSUE
+  Do an internet turd and become internet famous
+
+  * DRAMA BE GONE - A script that mutes anyone
+  who screenshotted people to demonstrate that
+  the other person was a pillock would remove 80%
+  of the drama on Twitter.
+
+  * WHO WOULD HAVE YOU BEEN IF YOU WERE FAMOUS?
+  The best selling music artist who's about the
+  age of this writer is Eminem. So if our teenage
+  dreams of being a pop star had come true, the
+  market would have dictated we've have had to
+  been a white rapper. Which, would have sucked,
+  lucky escape there.
+
+  * A ARTICLE IDEA WE'RE TOO LAZY TO RESEARCH -
+  someone quizzing a policeman to write "27
+  crimes you'll most likely get away with" would
+  potentially be a good read.
+
+  * BBC CONCENTRATE -  A BBC radio station they
+  only plays instrumental music with DJs only
+  allowed to speak to name the tracks /artists
+  every 30 mins - for people who are working.
+https://b3ta.com/mailus/
+
+-------------------------------------------------
+
+: PATREON THANKS
+
+  They bought ads: EdZitron & HebTroCo.
+
+  *THEY BOUGHT CAPS AND ASTERISKS!* *STOOBERT*,
+  *JOSH MCMILLAN*, *AARON HOLMES*, *TOM JENKINS
+  BATES*, *JON GRANT*, *SHOWRAT*, *SIMON JAMES*,
+  *TREVOR BURTON-MCCREADIE*, *MR PHIL DONNELLY*,
+  *KATE*, *JAMES PETTS*, *STEWART NOLAN*, *MARK
+  MCCREADIE*, *ALEX MORRIS*, *JAMES O'BRIEN*
+
+  THEY BOUGHT CAPS: GEORGE STEPHENSON, NAT KING
+  COLESLAW, ANDREW WREN, JAMES CRONIN, ALISTAIR ,
+  IAN SHEEN, NEIL HEPBURN, MARK ADAMSON, ANDREW
+  FLEMMING, ALAN CHARLTON, SPAZZCAPTAIN , WENDY
+  GOODE, JAIMIE VANDENBERGH, CHRIS BLAKENEY,
+  BEVAN JOHNSON, CRISS MORENO, JO APPS, CHRIS
+  LOCKE, ALBERT MARSHMALLOW, GREG MCGOWAN,
+  RICHARD BARCLAY, PATRICK CATES, 24-7 DEATH, TOM
+  WRIGHT, JON BINSTEAD, SIMON NICHOLLS, CHRIS
+  CARLINE, BRIAN EELES, MICHAEL TRINDER
+
+  They bought a mention: Eugenie vT, Tom Dolan,
+  lee burnett, Peter Cooper, Rebecca McManus, Bex
+  Cook, Hannah Chubb, Martin Davies, George
+  Preston, Chris Saunders, Mike Middleton,
+  Richard Matthias, AuntieSash Hazlewood, Brad
+  Gregory, Graham Licence, Paul Rose (Mr Biffo),
+  Ed Can Do, C Bond, Fergus McKay, Steve herman,
+  Alex Walsh Atkins, Mick Curtis, Craig Turner,
+  Joshua Thomasson, Dog Byte, Fearghas ,
+  unklefiction , Chris Gough, fourstar , Jonty
+  Wareing, Basel Kirmani, Montocat , Rob Affleck,
+  Rhys Wynne, Matt Machell, Marina de Joslin,
+  Jasper Koning, Ryan Rhodes, Chris Whitworth,
+  James Macinnes, Geoff Tidey, John Higgs, Daniel
+  Chote, Geoffrey Balme, Byron Geoffrey Farrow,
+  Mark Wilson, Paul Cherry, Nick Ross, Ian
+  Beveridge, Alex Mastin, Raul Arreola, Faith H.
+  Martin, Tim Williams, David King, Jaymie
+  Thomas, Sam Russell, David Knoll, Ben Watson,
+  Simon Holmes, Steve P, Gaynor Clarkson, Saleem
+  Ahmad, nicholas martin, Jim MacArthur, John
+  Hammersley, Andy Yates`, Andy Webber, Jack
+  Barton, David Gardiner, Adam Molloy, Simon
+  McDougall, Craig Tonks, Anna , Peter Gosling,
+  Jason Stewart, Dave Nattriss, Philip
+  Kinchington, Ian Boltz, Matt Drewry, Derek
+  ROBERTS, Robbie Lesiuk, Bertram Wooster, Adam
+  Inglis, James Clayton, David Harrison, Jim
+  Frayling,  Mike Middleton, Scott S. Kramer, Joe
+  Simmonds, Julie Brumlik, Rob Mahon, Paul
+  Leader, Ivan Kelly, J&#464;m McN&#464;ven, Paul
+  Healey, Andy Ashton, Tom Rees-Williams, David
+  Mills, Martin Beer, midnightrambler , matsimpsk
+  , Jim Halfpenny, Dave Tickle, Matthew Forman,
+  Gareth Noyce, Chris Paterson, James Woods,
+  pookong , oliver bewes, Iain , Adam Cooney, Sam
+  Anderson, Albion Gray, Rupert Hull, Simon
+  Henry, Simon waterfall, Paul Westerman,
+  Courtenay Ferris, Andy Tillett, Essy Dave,
+  Martin Peache, Jerry Quartley, Bertil Hansson,
+  Carl Morgan, Mark Hibbett, Daniel Brown, Rich
+  Pope, John Matthews, JOHNNY WATTERS, Jamie
+  Taylor, Adrian Woodfield, Stuart Ashen, Vicki
+  Jakes, Jane Baker, Paul Smith, Will Goulden,
+  Simon Cowan, Robin Whitmore, Steven Smith,
+  Matthew Wilkes, John Docherty, Dan Stott,
+  Siobhan McNally, Bill Atkinson, Starlord
+  Mixtape, Gneissrocks , Steve Prowse, Tyronne
+  Mann, Andy Storrar, Jay Roche, Peter Willman,
+  Sarah Williamson, Kevin Johnston, Richard
+  Chamley, Tom Gleeson, Mark McGowan, Ed Cook,
+  Darren Stanley, Catroaster , Iain Fuller, Iain
+  Ruxton, Jim Woodward, Alexander Jamieson, Tom
+  Crick, Ben Burton, Peter Ashtray, Adam Atack,
+  AC , Derek Law, David Catley, John Foster, Matt
+  Buchanan, Matthew Collinge, Joey moore, Mark
+  Hill, Joe McNally, Tom Ryan, Peter McMinn, Ryan
+  Doran, Konrad Petrusewicz, Wil Hadden, James
+  Donnelly, Frank Hollis, sean casely, Al
+  Davidson, martin mackenzie, Gus Nicol, Martin
+  Holloway, Mike Davis, Steve Thornton, Tim
+  Mouncer, peter wouda, Fraser Lewry, Matthew
+  Morris, Rob Vincent, Chris Shaw, Rick Lindley,
+  Greg Neilson, blossomshed , Jude Evans, Kev
+  Adams, Simon Smith, @mattdawhit , Brian
+  Lancaster, Iain Henshaw, Mathew Smith, Gia
+  Milinovich, Fiona James, Robert Hills,
+  Anne-Marie Scott, James Kerry-Barnard, Greenfox
+  , Neil de Carteret, Stephen Waller, Luke
+  Mepham, Stuart Alldred, Adam Lloyd, Andrew
+  Scheuber, Chris Branch, Jonathan Wooddin,
+  OBiW4N SHiNOBi, Dominic Haigh,
+  TownsendsPublisher , Steve Anglesey, Iain
+  Brassington, Heidi Colthup, Ross Carter, Chris
+  Evans, Edward Almond, James Golbey, Johnnie
+  Shannon, Alex Lovett, Peter Coombe, David Ault,
+  Kate Devlin, James Shakespeare, Tim Weaver,
+  Lisa Westhaven, James O'Malley, Emma Lay,
+  RossOverThere , Tim Jokl, Catherine McAllister,
+  Steve Laker, Damien Smith, Jim Dabell, John
+  Faragher, Eric von Borstel, Malcolm Franks,
+  Richard Beckett, No Reward Description: (None
+  for No Reward), Nick Morgan, Rog Sharples, Ben
+  Brice, Iain Moffatt, Justin Brett, Louise
+  Allen, David Green, Riven A Buckley, Robin ,
+  Luche , Ian Appleby, Pete , Tobie Fysh, Gavin
+  Tommey, Stuart Richards, David Barton, Jess
+  Baker, Tom Freke, Jan Spielhoff, Sean Flanagan,
+  Mike Congreve, Chris Johnson, John Field, Emma
+  Sykes, Carl Mesner Lyons, Ross Dobson, David
+  Stark, Adam Beardwood, Danny Kodicek, Dominic
+  Le Garsmeur, Mark Benson, Chris Goode, Andrew
+  Robinson, Nicky Hewgill, Michael Kitt, Tim
+  Beachy, Rose Johnson, Paul Topping, Connor
+  Parslow, Daniel Moeller, Irene Semanchuk,
+  Alexandre Strube, Craig Naples, Steve Bryant,
+  Richard Speed, Alastair Dodd, Rhys Jones,
+  Joseph Mulvaney, Julie Beacock, Sentient
+  Meatbag, Dan Tasse, peter royal, Harry Wearne,
+  Duncan STrickland, Andy Candler, Deny Coughlan,
+  Russ Anderson, Nick Kent, Jonathan , Phil H,
+  Andrew Anderson, Ian Silvester, Ben Webb,
+  Graham Freeman, Dave Gee, Peter Keelback, Wine
+  School of Philadelphia, John Griffiths, Nick
+  Murdoch, Rob Potter, James Meers, 5telios ,
+  Paul Mancini, Al Napp, Tanya Kant, Jon Ramster,
+  David Whittam, Jace Otting, BSG , Andrew
+  Harris, Chris Ward, Adam Tickner, Peter , Emily
+  Payne, Tim Polglase, Ted Bowyer, Matt Carr,
+  Bobod , Michael Bryan, Richard Midwinter, Neil
+  Ives, Mark Ryan, Ben Chapman, David Bond, Ben ,
+  Robert Simpson, Gary Sharp, Andy Shirling,
+  Fenris Games, James , Jim Lucking, mark
+  madgwick, Ben Sugden, Russell Webster, Sham
+  Courtney, Louis E, Andrea Vail, Rohan , Sam
+  Brown, Marc Lindberg, Hugh Noble, Nigel Ford,
+  Gwyn Fisher, Matt Loren, Centuries of Sound,
+  Amy Oliver, Christina Freeman, Paul
+  Braithwaite, Tom Clark, Gregg Kuljian, Richard
+  Abraham, Paul Slade, Alex Wrottesley, Ivan
+  Shiel, Claire Allen, Iain M Barker, Dan Fairs,
+  Tony East, Cat Conner, Jennifer Moquin, Claire
+  Zolkwer, Seirian Hanner, Thea Mallett, Nick ,
+  ben cowell-thomas, Robert Purkis, Oli , Andy
+  Nattan, Alex Wren, Martin Vindahl Olsen, Ilya
+  &#268;olak-Anti&#263;, Adam Kaczmarek, Mike
+  Carter, Daz Wright, Stewart C. Russell, John M,
+  P Underwood, Thepfy , Hadleigh Charles, Mark
+  McIntosh, Stephen Williams, Peter Wood, Darren
+  John Harris, Mike Booth, Simon Lumb, Tim
+  Knight, FuzzyFreaks , Stephen McAuley, Phil
+  Barns, wigglywigglyworm , Lyra Jay, Lee Ball,
+  Richard keeling, David Ellinor, Rachel Tougas,
+  Ben Groom, Mr Flibble, David Parry, Emma Nicol,
+  Paul Bayfield, Swedemason , Jon Bounds,
+  Stéphane.
+
+  Thanks everyone for supporting us, and if you
+  don't, please consider it.
+https://www.patreon.com/b3ta
+
+-------------------------------------------------
+
+: REVERSE PSYCHOLOGY SOCIAL MEDIA PROMO
+  Block / unfriend B3ta NOW!
+  
+  Social media has largely become a machine for
+  amplifying the word "Trump" and making us all
+  hate each other, so block us now at:
+https://www.facebook.com/b3tan
+https://www.twitter.com/b3ta
+
+-------------------------------------------------
+
+  TOP TIP: WHEN CROSSING ROADS - rather than
+  looking both ways before crossing simply add the
+  vectors of both directions and look straight
+  ahead. (Crack, 10 votes)
+http://www.b3ta.com/questions/toptips/  
+
+-------------------------------------------------
+
+: QUESTION OF THE WEEK /GOLD/
+  Three's a crowd
+ 
+  My sex misconception was that having my first
+  threesome would be a good idea.
+
+  It didn’t happen by accident. One of my best
+  mates, let’s call him Darren, had a girlfriend
+  who was liberal to the point of having no
+  inhibitions whatsoever. This suited Darren
+  perfectly and he used to boast to me regularly
+  about the latest perversion they’d tested in
+  the bedroom (or the kitchen, or the park… you
+  get the idea).
+
+  I was midway through Uni at the time but Darren
+  and I had been friends all the way through
+  school, been in sports teams together and it’s
+  fair to say we knew each other about as well as
+  two guys can, or so I thought. His girlfriend
+  Jenny was a couple of years older than us but
+  we’d both known her at school too. She was a
+  stunning girl and great fun but unashamedly
+  also a sexual deviant.
+
+  The night of Darren’s birthday was when it
+  happened. We were all a bit drunk and in no
+  mood to stop when the music at the nightclub
+  finished, so it was decided to go back to their
+  house to continue the party. In the back of the
+  cab, Jenny in the middle and Darren and me on
+  either side, it became clear I was in for more
+  than I’d bargained when she started groping me.
+  A quick glance to the left revealed that Darren
+  was already getting a hand job. He turned to me
+  and said “Jenny’s always fancied a threes-up
+  with you and me, how about it?”.
+
+  Well, what could I say? Nothing, as it
+  happened. She winked at me, I smiled nervously
+  in reply and she unbuttoned my flies with her
+  free hand …
+
+  After an awkward payment to the blushing
+  cabbie, we piled into their house and into the
+  living room. I had no idea what to expect, it
+  felt like losing my virginity again. She
+  dabbled with the idea of just getting down to
+  it right there, but Darren pointed out that the
+  bedroom would be more comfortable. Our trio of
+  bodies gradually made its way through the
+  hallway and up the stairs, Jenny occasionally
+  stopping to lick or fondle our various body
+  parts. By the time we arrived at the bedroom,
+  our clothes were all over the house.
+
+  I let Jenny dictate the pace when she wasn’t
+  using her skills on Darren as I really didn’t
+  know what I was doing; I’d had plenty of solo
+  partners myself but this was my first
+  ménage-a-trois so I didn’t want to overstep
+  whatever boundaries remained. Nevertheless,
+  trying to be passive and gentlemanly in such
+  rare circumstances just doesn’t work.
+
+  Growing bored of switching attention back and
+  forth between our respective cocks, Jenny
+  commanded Darren to fuck her hard, and he
+  happily obliged. While he was busily shagging
+  her from behind, I decided to engage in a bit
+  of ‘spit roasting’, then she insisted that we
+  swap ends. It was certainly a weird feeling to
+  be fucking my best mate’s girl while he was
+  being fellated by her a couple of feet away,
+  watching my every thrust intently. It was all a
+  bit surreal and I didn’t think it would go any
+  further, but Jenny wanted to try every
+  conceivable position available to the three of
+  us. She laid me on the bed, straddled me and
+  invited Darren to fill her vacant rear
+  entrance. It turns out that double penetration
+  is much more difficult than porn movies would
+  have you believe.
+
+  After an unenjoyable sojourn into shitty city,
+  Darren decided it was time to watch me and
+  Jenny for a bit while he “cleaned himself off”…
+  yuck. I was still lying on the bed so Jenny
+  assumed the classic ‘69’ position and began
+  giving me a very fine blowjob while I got to
+  work on her. Darren couldn’t stand just
+  watching so after a few cursory wipes he
+  decided to resume his previous position in
+  Jenny’s wrong ‘un, which was fine for him.
+  However, it placed me in the unenviable
+  position of having to look directly up at his
+  sweaty ballsack and arse. I closed my eyes and
+  tried to concentrate on Jenny’s excellent
+  technique rather than my best friend’s
+  pendulous undercarriage slamming into her
+  chocolate exit strategy.
+
+  With my eyes closed, I was finally starting to
+  enjoy the experience myself. I could feel the
+  pressure building as Jenny demonstrated her
+  lack of a meaningful gag reflex and could tell
+  she was enjoying my oral generosity too. She
+  was really wet to the point of dripping into my
+  mouth, so I lapped it up like a dog eating a
+  melted ice cream. I’d never experienced
+  anything like it before, but it was a real turn
+  on to know she was getting so much pleasure,
+  even if she did taste a bit different to most
+  of the girls I’d been with before. After
+  another minute or two she finished me off in
+  her mouth. Feeling rather exhausted and self
+  conscious again, I opened my eyes again only to
+  find that Darren was already lying next to us.
+  Confused, I looked up and noticed a trickle of
+  light brown fluid running from Jenny’s fudge
+  box, all the way down her lady-garden and
+  stretching onto my own lips.
+
+  Unfortunately for me, while I had been lost in
+  mutual oral pleasure with my eyes closed,
+  Darren had quietly emptied a remarkable load of
+  hot monkey custard into Jenny’s backside, and
+  then he’d pulled out with predictable results.
+  It wasn’t my tongue that had made her beef
+  pocket so impressively moist after all. The
+  worst part was that I’d swallowed most of the
+  devil’s own cocktail in the mistaken belief
+  that it was my prize for being so good at
+  cunnilingus. I ended up blaming the ensuing
+  bout of puking on the evening’s drinks.
+
+  So kids, my advice to you is: if you ever end
+  up being asked to a threesome, for goodness’
+  sake, either get the boy/girl ratio right or
+  ensure that gravity is on your side.
+
+  Apologies if the ending to this tale has left a
+  nasty taste in your mouth too. (chart cat)
+https://www.b3ta.com/questions/sexualmisconceptions/
+
+-------------------------------------------------
+
+: ANY OTHER BUSINESS?
+
+  * Sub to the newsletter via 
+https://www.b3ta.com/subscribe/
+
+  * Unsub
+<unsubscribe>If you must but you shouldn't</unsubscribe>
+
+  * Submit YOUR content to newsletter:
+https://www.b3ta.com/mailus/
+
+  * Fund the newsletter via the patreon:
+https://www.patreon.com/b3ta
